@@ -1,8 +1,8 @@
 <h1 align="center">Telegram Бот Кликер</h1>
 
-## Начало работы :mag_right:
+## :mag_right: Начало работы :mag_right:
 
-### Установка Зависимостей :space_invader:
+### :space_invader: Установка Зависимостей :space_invader:
 
 Пожалуйста, убедитесь, что у вас установлен Python, Docker и Docker Compose перед выполнением этих команд. Если вы используете виртуальное окружение, убедитесь, что оно активировано перед установкой этих пакетов. Кроме того, в зависимости от вашей системы, вам может потребоваться использовать pip3 вместо pip и добавить --user к командам pip для установки пакетов для текущего пользователя. Затем установите необходимые зависимости, используя следующую команду в командной строке:
 
@@ -16,7 +16,7 @@ docker compose up --build
     <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=400&pause=100&color=000000&background=FFFFFF&random=false&width=435&lines=cd+Telegram-Bot-Clicker;docker+compose+up+--build">
   </picture>
 
-### Подробное руководство по установке и настройке телеграм-бота кликера :wrench:
+### :wrench: Подробное руководство по установке и настройке телеграм-бота кликера :wrench:
 
 <h4>&#8544; Установка Docker:</h4>
 
