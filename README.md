@@ -1,4 +1,4 @@
-<h1 align="center">Telegram Бот Кликер</h1>
+<h1 align="center">👆Telegram Бот Кликер👆</h1>
 
 ## Начало работы :mag_right:
 
