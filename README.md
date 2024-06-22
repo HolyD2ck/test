@@ -28,7 +28,7 @@ docker compose up --build
 <h4>&#8545; Установка Docker Compose:</h4>
 
 - Docker Compose обычно входит в состав Docker Desktop для Windows и macOS.
-- Для Linux следуйте официальной инструкции: Install Docker Compose
+- Для Linux следуйте официальной инструкции: <a href="https://docs.docker.com/desktop/install/linux-install/">Install Docker Compose</a>
 
 > [!CAUTION]
 > Пожалуйста, обратите внимание, что этот бот предназначен только для образовательных целей и не должен использоваться для незаконного распространения контента.
