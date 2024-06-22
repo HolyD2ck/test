@@ -25,9 +25,11 @@
 - запуск всех сервисов: 
 ```bash 
 docker-compose up
+```
 - запуск сервисов в фоновом режиме: 
 ```bash 
 docker-compose up -d
+```
 <h4>Завершение работы бота</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=FFFFFF&background=000000&random=false&width=460&lines=docker-compose+down">
