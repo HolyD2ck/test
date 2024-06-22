@@ -43,6 +43,12 @@ docker compose up --build
 
 - Перейдите в каталог с клонированным репозиторием:
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=FFFFFF&background=000000&random=false&width=460&lines=cd+%3C%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0%3E">
+    <!-- Светлая тема -->
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=000000&background=FFFFFF&random=false&width=460&lines=cd+%3C%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0%3E">
+</picture>
+
 
 > [!CAUTION]
 > Пожалуйста, обратите внимание, что этот бот предназначен только для образовательных целей и не должен использоваться для незаконного распространения контента.
