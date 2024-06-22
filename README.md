@@ -10,7 +10,7 @@ bash
 docker compose up --build
 Объяснить
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=100&color=F7F7F7&background=000000&random=false&width=435&lines=cd+myProject;pip+install+-r+requirements.txt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4300&pause=1000&color=000000&random=false&width=435&lines=cd+Telegram-Bot-Clicker;docker+compose+up+--build)](https://git.io/typing-svg)
 
 ### Настройка Конфигурации :wrench:
 
