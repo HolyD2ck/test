@@ -21,7 +21,7 @@
     <!-- Светлая тема -->
     <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=000000&background=FFFFFF&random=false&width=460&lines=cd+Telegram-Bot-Clicker;docker+compose+up+%E2%80%94build">
 </picture>
-###
+<h4>Дополнительно:</h4>
 - запуск всех сервисов: 
 ```bash 
 docker-compose up
