@@ -55,5 +55,5 @@ py -m bot
 
 Создано с помощью:
 - Python 🐍
-- aiogram
-- Docker
+- aiogram 🔧
+- Docker 🐋
