@@ -21,7 +21,7 @@ docker compose up --build
 
 <h4>&#8544; Установка Docker:</h4>
 
-- Перейдите на официальный сайт Docker: Docker Download
+- Перейдите на официальный сайт Docker: <a href="https://www.docker.com/">Docker Download</a>
 - Скачайте и установите Docker для вашей операционной системы (Windows, macOS, Linux)
 - Следуйте инструкциям на сайте для завершения установки.
 
