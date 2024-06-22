@@ -15,7 +15,7 @@
 - Docker Compose обычно входит в состав Docker Desktop для Windows и macOS.
 - Для Linux следуйте официальной инструкции: <a href="https://docs.docker.com/desktop/install/linux-install/">Install Docker Compose</a>
 
-<h4>Запуск бота с помощью Docker Compose</h4>
+<h4>Первый запуск проекта (build)</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4000&pause=100&color=FFFFFF&background=000000&random=false&width=435&lines=cd+Telegram-Bot-Clicker;docker+compose+up+--build">
     <!-- Светлая тема -->
