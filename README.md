@@ -18,18 +18,18 @@ docker compose up --build
 
 ### Подробное руководство по установке и настройке телеграм-бота кликера :wrench:
 
-<h4>&#8544; Установка Docker:</h4>
+<h4>Установка Docker:</h4>
 
 - Перейдите на официальный сайт Docker: <a href="https://www.docker.com/">Docker Download</a>
 - Скачайте и установите Docker для вашей операционной системы (Windows, macOS, Linux)
 - Следуйте инструкциям на сайте для завершения установки.
 
-<h4>&#8545; Установка Docker Compose:</h4>
+<h4>Установка Docker Compose:</h4>
 
 - Docker Compose обычно входит в состав Docker Desktop для Windows и macOS.
 - Для Linux следуйте официальной инструкции: <a href="https://docs.docker.com/desktop/install/linux-install/">Install Docker Compose</a>
 
-<h4>&#8546; Клонирование репозитория бота:</h4>
+<h4>Клонирование репозитория бота:</h4>
 
 - Откройте терминал или командную строку
 - Выполните команду:
