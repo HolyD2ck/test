@@ -29,6 +29,7 @@ docker compose up --build
 - Docker Compose обычно входит в состав Docker Desktop для Windows и macOS.
 - Для Linux следуйте официальной инструкции: <a href="https://docs.docker.com/desktop/install/linux-install/">Install Docker Compose</a>
 
+<h4>Запуск бота с помощью Docker Compose</h4>
 
 ## Функционал :star:
 
