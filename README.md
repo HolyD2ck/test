@@ -29,25 +29,7 @@ docker compose up --build
 - Docker Compose обычно входит в состав Docker Desktop для Windows и macOS.
 - Для Linux следуйте официальной инструкции: <a href="https://docs.docker.com/desktop/install/linux-install/">Install Docker Compose</a>
 
-<h4>Клонирование репозитория бота:</h4>
 
-- Откройте терминал или командную строку
-- Выполните команду:
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=FFFFFF&background=000000&random=false&width=460&lines=git+clone+%3C%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9-%D1%81-%D0%B1%D0%BE%D1%82%D0%BE%D0%BC%3E">
-    <!-- Светлая тема -->
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=000000&background=FFFFFF&random=false&width=460&lines=git+clone+%3C%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9-%D1%81-%D0%B1%D0%BE%D1%82%D0%BE%D0%BC%3E">
-</picture>
-
-
-- Перейдите в каталог с клонированным репозиторием:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=FFFFFF&background=000000&random=false&width=460&lines=cd+%3C%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0%3E">
-    <!-- Светлая тема -->
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=000000&background=FFFFFF&random=false&width=460&lines=cd+%3C%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0%3E">
-</picture>
 
 
 > [!CAUTION]
