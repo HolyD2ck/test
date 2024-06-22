@@ -30,6 +30,12 @@ docker compose up --build
     <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=000000&background=FFFFFF&random=false&width=460&lines=cd+Telegram-Bot-Clicker;docker+compose+up+%E2%80%94build">
 </picture>
 
+<h4>Завершение работы бота</h4>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=FFFFFF&background=000000&random=false&width=460&lines=docker-compose+down">
+    <!-- Светлая тема -->
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=4400&pause=1000&color=000000&background=FFFFFF&random=false&width=460&lines=docker-compose+down">
+</picture>
 
 ## Функционал :star:
 
